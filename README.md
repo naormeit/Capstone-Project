@@ -2,11 +2,11 @@
 
 ## Description :
 
-    In this Capstone Project we will be working on an indepenent idea to get internship by the 3rd Semester and wait for the evaluation team to evaluate our project and guide us through the errors that we are facing.
+In this Capstone Project we will be working on an indepenent idea to get internship by the 3rd Semester and wait for the evaluation team to evaluate our project and guide us through the errors that we are facing.
 
 ## Idea :
 
-    The topic for my Capstone Project is **EMPOWERING PERSONALIZED HEALTHCARE: A SMART DECISION SUPPORT SYSTEM FOR OPTIMAL PATIENTS OUTCOME**.
+The topic for my Capstone Project is **EMPOWERING PERSONALIZED HEALTHCARE: A SMART DECISION SUPPORT SYSTEM FOR OPTIMAL PATIENTS OUTCOME**.
 
 ## Proposed Solution :
 
@@ -20,29 +20,31 @@
     - This approach not only enhances the delivery of care but also boosts patient adherence by providing personalized management tools tailored to their needs.
 
 
-**Technical Strategy** :
-    **Technologies and Tools used** :
-        - **Programming Language** :
-            - Pyton => Data Analysis
-            - JavaScript => Website Functionality
-        - **Framework :**
-            - TensorFlow => AI Models
-            - Flask => Back-end Server
-        - **Database :**
-            - PostgreSQL => Storing Data
-            - MongoDB => Flexible Data Management
-        - **Cloud Services :**
-            - AWS => Hosting Online
-            - Google Clouds => Scalable Services
-    **Methodology :**
-        - **Agile Development :**
-            - Sprints : Agile cycle of 2-4 weeks for a steady delivery, quick feedback, collaboration, and quality.
+## Technical Strategy :
+
+**Technologies and Tools used** :
+    - **Programming Language** :
+        - Pyton => Data Analysis
+        - JavaScript => Website Functionality
+    - **Framework :**
+        - TensorFlow => AI Models
+        - Flask => Back-end Server
+    - **Database :**
+        - PostgreSQL => Storing Data
+        - MongoDB => Flexible Data Management
+    - **Cloud Services :**
+        - AWS => Hosting Online
+        - Google Clouds => Scalable Services
+**Methodology :**
+    - **Agile Development :**
+        - Sprints : Agile cycle of 2-4 weeks for a steady delivery, quick feedback, collaboration, and quality.
 
 
-**Feasibility :**
-    1. Technical Feasibility
-    2. Economic Feasibility
-    3. Operational Feasibility
+## Feasibility :
+
+1. Technical Feasibility
+2. Economic Feasibility
+3. Operational Feasibility
 
 **Challenges and Risks :**
     1. Market Competition.
