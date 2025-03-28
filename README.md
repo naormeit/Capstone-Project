@@ -1,4 +1,4 @@
-## Capstone-Project
+# Capstone-Project
 
 ## Description :
 
@@ -36,6 +36,7 @@ The topic for my Capstone Project is **EMPOWERING PERSONALIZED HEALTHCARE: A SMA
 - **Cloud Services :**
         - AWS => Hosting Online
         - Google Clouds => Scalable Services
+
 **Methodology :**
     - **Agile Development :**
         - Sprints : Agile cycle of 2-4 weeks for a steady delivery, quick feedback, collaboration, and quality.
