@@ -60,16 +60,17 @@ The topic for my Capstone Project is **EMPOWERING PERSONALIZED HEALTHCARE: A SMA
     - User Adoption.
     - Resource Limitation.
 
-**Impacts and Benefits Envisioned :**
-    1. **Social Benefits :**
-        a. Enhanced patient Outcomes.
-        b. Increased patient Satisfaction.
-        c. Empowerment of health Professional.
-    2. **Economic Benefits :**
-        a. Cost Reduction.
-        b. Increased Efficiency.
-        c. Potential for Revenue Growth.
-    3. **Environmental Benefits :**
-        a. Resource Optimisation.
-        b. Reduction in Waste.
+## Impacts and Benefits Envisioned :
+
+1. **Social Benefits :**
+    a. Enhanced patient Outcomes.
+    b. Increased patient Satisfaction.
+    c. Empowerment of health Professional.
+2. **Economic Benefits :**
+    a. Cost Reduction.
+    b. Increased Efficiency.
+    c. Potential for Revenue Growth.
+3. **Environmental Benefits :**
+    a. Resource Optimisation.
+    b. Reduction in Waste.
 
