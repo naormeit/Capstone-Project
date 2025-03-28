@@ -1,19 +1,23 @@
 ## Capstone-Project
 
-**Description :**
+## Description :
+
     In this Capstone Project we will be working on an indepenent idea to get internship by the 3rd Semester and wait for the evaluation team to evaluate our project and guide us through the errors that we are facing.
 
-**Idea :**
+## Idea :
+
     The topic for my Capstone Project is **EMPOWERING PERSONALIZED HEALTHCARE: A SMART DECISION SUPPORT SYSTEM FOR OPTIMAL PATIENTS OUTCOME**.
 
-**Proposed Solution :**
-    **Empowering Personalised Healthcare :**
-        - Personalized healthcare faces challenges such as fragmented data and reliance on generic protocols,which can lead to subpar outcomes. Our AI-Powered Decision Support System bridges this gap by integrating data from EHRs, lab results, and wearables to create a comprehensive picture of each patient’s health.
-        - Advanced machine learning algorithms provide personalized treatment recommendations, thereby enhancing care effectiveness. With a user-friendly interface, healthcare professionals gain instant access to actionable insights, making decision-making easier and more informed.
-        - This innovation drives better clinical outcomes, increases patient satisfaction, and creates a truly personalized healthcare experience.
-    **Innovation and Uniqueness of the solution :**
-        - Our AI-powered system excels in its ability to adapt and learn from new patient data, offering real-time updates to treatment plans based on the latest information. Unlike traditional tools, it prioritizes simplicity and usability, ensuring seamless navigation for healthcare providers.
-        - This approach not only enhances the delivery of care but also boosts patient adherence by providing personalized management tools tailored to their needs.
+## Proposed Solution :
+
+**Empowering Personalised Healthcare :**
+    - Personalized healthcare faces challenges such as fragmented data and reliance on generic protocols,which can lead to subpar outcomes. Our AI-Powered Decision Support System bridges this gap by integrating data from EHRs, lab results, and wearables to create a comprehensive picture of each patient’s health.
+    - Advanced machine learning algorithms provide personalized treatment recommendations, thereby enhancing care effectiveness. With a user-friendly interface, healthcare professionals gain instant access to actionable insights, making decision-making easier and more informed.
+    - This innovation drives better clinical outcomes, increases patient satisfaction, and creates a truly personalized healthcare experience.
+
+**Innovation and Uniqueness of the solution :**
+    - Our AI-powered system excels in its ability to adapt and learn from new patient data, offering real-time updates to treatment plans based on the latest information. Unlike traditional tools, it prioritizes simplicity and usability, ensuring seamless navigation for healthcare providers.
+    - This approach not only enhances the delivery of care but also boosts patient adherence by providing personalized management tools tailored to their needs.
 
 
 **Technical Strategy** :
