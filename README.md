@@ -11,6 +11,7 @@ The topic for my Capstone Project is **EMPOWERING PERSONALIZED HEALTHCARE: A SMA
 ## Proposed Solution :
 
 **Empowering Personalised Healthcare :**
+
     - Personalized healthcare faces challenges such as fragmented data and reliance on generic protocols,which can lead to subpar outcomes. Our AI-Powered Decision Support System bridges this gap by integrating data from EHRs, lab results, and wearables to create a comprehensive picture of each patient’s health.
     - Advanced machine learning algorithms provide personalized treatment recommendations, thereby enhancing care effectiveness. With a user-friendly interface, healthcare professionals gain instant access to actionable insights, making decision-making easier and more informed.
     - This innovation drives better clinical outcomes, increases patient satisfaction, and creates a truly personalized healthcare experience.
