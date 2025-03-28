@@ -36,26 +36,26 @@
 
 
 **Feasibility :**
-    - Technical Feasibility
-    - Economic Feasibility
-    - Operational Feasibility
+    1. Technical Feasibility
+    2. Economic Feasibility
+    3. Operational Feasibility
 
 **Challenges and Risks :**
-    - Market Competition.
-    - Technical Integration.
-    - User Adoption.
-    - Resource Limitation.
+    1. Market Competition.
+    2. Technical Integration.
+    3. User Adoption.
+    4. Resource Limitation.
 
 **Impacts and Benefits Envisioned :**
-    - **Social Benefits :**
-        - Enhanced patient Outcomes.
-        - Increased patient Satisfaction.
-        - Empowerment of health Professional.
-    - **Economic Benefits :**
-        - Cost Reduction.
-        - Increased Efficiency.
-        - Potential for Revenue Growth.
-    - **Environmental Benefits :**
-        - Resource Optimisation.
-        - Reduction in Waste.
+    1. **Social Benefits :**
+        a. Enhanced patient Outcomes.
+        b. Increased patient Satisfaction.
+        c. Empowerment of health Professional.
+    2. **Economic Benefits :**
+        a. Cost Reduction.
+        b. Increased Efficiency.
+        c. Potential for Revenue Growth.
+    3. **Environmental Benefits :**
+        a. Resource Optimisation.
+        b. Reduction in Waste.
 
