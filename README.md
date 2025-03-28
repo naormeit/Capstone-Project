@@ -16,9 +16,9 @@
         - This approach not only enhances the delivery of care but also boosts patient adherence by providing personalized management tools tailored to their needs.
 
 
-**Technical Strategy :**
-    **Technologies and Tools used :**
-        - **Programming Language :**
+**Technical Strategy** :
+    **Technologies and Tools used** :
+        - **Programming Language** :
             - Pyton => Data Analysis
             - JavaScript => Website Functionality
         - **Framework :**
