@@ -23,16 +23,17 @@ The topic for my Capstone Project is **EMPOWERING PERSONALIZED HEALTHCARE: A SMA
 ## Technical Strategy :
 
 **Technologies and Tools used** :
-    - **Programming Language** :
+
+- **Programming Language :**
         - Pyton => Data Analysis
         - JavaScript => Website Functionality
-    - **Framework :**
+- **Framework :**
         - TensorFlow => AI Models
         - Flask => Back-end Server
-    - **Database :**
+- **Database :**
         - PostgreSQL => Storing Data
         - MongoDB => Flexible Data Management
-    - **Cloud Services :**
+- **Cloud Services :**
         - AWS => Hosting Online
         - Google Clouds => Scalable Services
 **Methodology :**
