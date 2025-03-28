@@ -53,7 +53,8 @@ The topic for my Capstone Project is **EMPOWERING PERSONALIZED HEALTHCARE: A SMA
 
 3. Operational Feasibility
 
-**Challenges and Risks :**
+## Challenges and Risks :
+
     - Market Competition.
     - Technical Integration.
     - User Adoption.
